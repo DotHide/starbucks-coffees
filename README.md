@@ -1,4 +1,4 @@
-# starbucks_coffees
+# Starbucks Coffees
 🍵 A nerd drinking coffee in Starbucks and then he writes an App ...
 
 ## Get Started
