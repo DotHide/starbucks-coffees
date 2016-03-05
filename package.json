@@ -1,4 +1,26 @@
 {
+  "name": "starbucks-coffees",
+  "description": "Starbucks Coffees: A nerd drinking coffee in Starbucks and then he writes an App",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DotHide/starbucks-coffees.git"
+  },
+  "keywords": [
+    "coffee",
+    "twitter",
+    "ionic",
+    "sketch"
+  ],
+  "author": "Martin <dothide@gmail.com> (https://github.com/DotHide)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DotHide/starbucks-coffees/issues"
+  },
   "dependencies": {
     "angular2": "2.0.0-beta.6",
     "es6-promise": "3.0.2",
@@ -22,6 +44,5 @@
     "strip-sourcemap-loader": "0.0.1",
     "webpack": "1.12.14"
   },
-  "name": "starbucks-coffees",
-  "description": "Starbucks Coffees: An Ionic project"
+  "homepage": "https://github.com/DotHide/starbucks-coffees#readme"
 }
